@@ -1,0 +1,68 @@
+body {
+  background: black;
+  color: white;
+  font-family: 'Titillium Web', Arial;
+  font-size: 1.25em;
+}
+
+h1 {
+  font-family: 'Pathway Gothic One', Arial;
+  color: yellow;
+  font-size: 5em;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Pathway Gothic One', Arial;
+  color: yellow;
+  font-size: 3em;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Pathway Gothic One', Arial;
+  color: #00f6ff;
+}
+
+#main {
+  width: 700px;
+  position: relative;
+  margin: 0 auto;
+}
+
+#crawler {
+  position: relative;
+  margin: 0 auto;
+  top: 400px;
+  text-align: center;
+}
+
+p {
+  line-height: 1.75em;
+  }  
+
+a {
+  color: yellow;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background: yellow;
+}
+
+.nextcrawl {
+  padding-top: 400px;
+  width: 350px;
+  margin: 0 auto;
+  text-align: justify;
+}
+
+.firstcrawl {
+  margin-bottom: 400px;
+}
+
+.title {
+  text-transform: uppercase;
+}
